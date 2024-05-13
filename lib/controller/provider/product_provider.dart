@@ -6,4 +6,6 @@ part 'product_provider.g.dart';
 class Product extends _$Product{
   @override
   void build(){}
+
+ 
 }
