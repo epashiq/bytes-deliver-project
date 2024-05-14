@@ -10,7 +10,8 @@ class ProductPage extends StatelessWidget {
         backgroundColor: Colors.grey,
         title: const Text('products'),
       ),
-      body: SingleChildScrollView(
+      body:
+       SingleChildScrollView(
         child: Column(
           children: [
             const SizedBox(
